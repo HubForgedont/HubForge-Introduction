@@ -130,9 +130,6 @@ These are tricky because AI deployment grants developers access: account setup, 
 
 We solve this by delegating fully to HubForge via SForge. Credentials are generated internally, ensuring exclusive control. Recovery options are stripped.
 
-We can see what HubForge forged from logs.  
-[Example GitHub Repo Link](https://github.com/HubForgeAI/ExampleForge)
-
 **Public Wallet:** For symbolic $HUB, keys are SForge-generated and isolated. Public address: ForgeHubDemoWalletX.
 
 **X Account Setup:** Password generated in SForge; no resets via isolated email (e.g., Cock.li). Browser simulation for setup, then OAuth for API use. Account isolated from apps/sessions.
