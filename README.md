@@ -1,6 +1,6 @@
 <!-- Project Banner (customize with your badge/image if you have one) -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e136ece1-f32d-43aa-b097-84d16ab2e46c" alt="Gitshot Logo" height="200">
+  <img src="https://github.com/user-attachments/assets/e136ece1-f32d-43aa-b097-84d16ab2e46c" alt="Gitshot Logo" height="280">
 </p>
 
 # HubForge
