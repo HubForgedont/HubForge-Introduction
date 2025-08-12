@@ -1,10 +1,14 @@
-<!-- Project Banner (customize with your badge/image if you have one) -->
+
+
+# HubForge
+> **Turn your project ideas into fully-built GitHub repos instantly!**
+>
+> <!-- Project Banner (customize with your badge/image if you have one) -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e136ece1-f32d-43aa-b097-84d16ab2e46c" alt="Gitshot Logo" height="280">
 </p>
 
-# HubForge
-> **Turn your project ideas into fully-built GitHub repos instantly!**
+
 
 [![Twitter](https://img.shields.io/twitter/follow/HubForgeAI?style=social)](https://twitter.com/HubForgeAI)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
