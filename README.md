@@ -160,7 +160,7 @@ SForge, like SGX/TDX, provides authenticated isolation. Admins cannot tamper. Re
 
 ## Getting Started
 
-1. Follow [@HubForgeAI on Twitter](https://twitter.com/HubForgeAI).
+1. Follow [@HubForgeAI on Twitter]
 2. DM your project idea (e.g., "A Python web app for task management").
 3. HubForge will create and share a GitHub repo link.
 
